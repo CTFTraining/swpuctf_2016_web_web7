@@ -1,0 +1,5 @@
+#!/bin/bash
+/usr/local/bin/redis-server &
+cd /app/src
+/usr/local/bin/python changepassword.py &
+/usr/local/bin/python index.py
