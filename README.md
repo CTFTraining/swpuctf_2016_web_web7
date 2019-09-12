@@ -19,7 +19,7 @@
 - Alpine Linux没法编译Python与Redis。只能用Ubuntu了。
 - 原题有个/web7/的URL前缀，我去掉了。
 - 默认暴露8080端口，非80端口。
-- 部署时需要给出[index.py](https://github.com/Tiaonmmn/swpuctf_2016_web_web7/blob/master/files/src/index.py)
+- 部署时需要给出[index.py](https://github.com/Tiaonmmn/swpuctf_2016_web_web7/blob/master/files/src/index.py)。
 
 ## Writeup
 - https://blog.csdn.net/niexinming/article/details/53024755
