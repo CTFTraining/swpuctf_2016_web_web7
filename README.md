@@ -25,7 +25,7 @@
 - https://blog.csdn.net/niexinming/article/details/53024755
 
 ## 版权
-该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系本人删除（tiaonmmn@live.cn）
-本题原Repo为https://github.com/wonderkun/CTF_web/tree/master/web200-4，我给Docker化，省略了环境配置。
-原Repo中的poc.py是错的。。。
-本题最初Author是niexinming。
+- 该题目复现环境尚未取得主办方及出题人相关授权，如果侵权，请联系本人删除（tiaonmmn@live.cn）
+- 本题原Repo为https://github.com/wonderkun/CTF_web/tree/master/web200-4，我给Docker化，省略了环境配置。
+- 原Repo中的poc.py是错的。。。
+- 本题最初Author是niexinming。
