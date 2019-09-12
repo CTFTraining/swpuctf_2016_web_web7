@@ -1,4 +1,5 @@
 #!/bin/bash
+echo $FLAG > /app/src/flag && export FLAG=not_flag && FLAG=not_flag
 /usr/local/bin/redis-server &
 cd /app/src
 /usr/local/bin/python changepassword.py &
